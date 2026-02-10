@@ -49,15 +49,25 @@ The gameplay focuses on:
 ---
 
 - **Main Menu**
-<img width="1293" height="730" alt="mainMenu" src="https://github.com/user-attachments/assets/bd6e995f-9fc5-4ddb-95a7-0720e9167431" />
+  
+  <img width="1293" height="730" alt="mainMenu" src="https://github.com/user-attachments/assets/bd6e995f-9fc5-4ddb-95a7-0720e9167431" />
+
+---
 
 - **Orders**
-<img width="1302" height="728" alt="orders" src="https://github.com/user-attachments/assets/19e44024-86b4-4eda-8874-7186271418d5" />
+  
+  <img width="1302" height="728" alt="orders" src="https://github.com/user-attachments/assets/19e44024-86b4-4eda-8874-7186271418d5" />
+
+---
 
 - **successful delivery**
+  
   <img width="1302" height="726" alt="success" src="https://github.com/user-attachments/assets/95953c57-2428-4f59-acca-cd214ff44f38" />
 
+---
+
 - **Pause Menu**
+  
   <img width="1295" height="739" alt="Pause" src="https://github.com/user-attachments/assets/161b8b1f-3a50-4955-b7cf-018c41de3e3f" />
   
 - **Options**
