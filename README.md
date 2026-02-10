@@ -44,5 +44,6 @@ The gameplay focuses on:
 - Unity Input System
 - Scriptable Objects
 - Object-based interaction architecture
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/91f7f6e2-eab1-4de3-a7d8-1beb00462f44" />
 
 
