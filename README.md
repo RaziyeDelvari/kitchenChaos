@@ -44,6 +44,25 @@ The gameplay focuses on:
 - Unity Input System
 - Scriptable Objects
 - Object-based interaction architecture
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/91f7f6e2-eab1-4de3-a7d8-1beb00462f44" />
 
+
+---
+
+- **Main Menu**
+<img width="1293" height="730" alt="mainMenu" src="https://github.com/user-attachments/assets/bd6e995f-9fc5-4ddb-95a7-0720e9167431" />
+
+- **Orders**
+<img width="1302" height="728" alt="orders" src="https://github.com/user-attachments/assets/19e44024-86b4-4eda-8874-7186271418d5" />
+
+- **successful delivery**
+  <img width="1302" height="726" alt="success" src="https://github.com/user-attachments/assets/95953c57-2428-4f59-acca-cd214ff44f38" />
+
+- **Pause Menu**
+  <img width="1295" height="739" alt="Pause" src="https://github.com/user-attachments/assets/161b8b1f-3a50-4955-b7cf-018c41de3e3f" />
+  
+- **Options**
+  <img width="1303" height="731" alt="options" src="https://github.com/user-attachments/assets/cf077988-548f-41f6-97e1-c46966fdb2d8" />
+
+  - **Game Over**
+    <img width="1303" height="707" alt="gameOver" src="https://github.com/user-attachments/assets/246693f7-56c7-42e6-9d60-f2a34924ce04" />
 
